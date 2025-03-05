@@ -5,8 +5,13 @@ This project demonstrates web scraping techniques using Python to extract cricke
 
 ## Data Sources
 - **Cricbuzz**: Scraping highest runs data for the ICC Cricket World Cup 2023.
-- ![cricbuzz_Stats](https://github.com/Dhruvbansal106/Web-Scraping-Project-Using-Python/blob/main/cricbuzz.png)
+  
+  ![cricbuzz_Stats](https://github.com/Dhruvbansal106/Web-Scraping-Project-Using-Python/blob/main/cricbuzz.png)
+
 - **ESPN Cricinfo**: Scraping most wickets data for the ICC Cricket World Cup 2023.
+  
+ ![Espn Stats](https://github.com/Dhruvbansal106/Web-Scraping-Project-Using-Python/blob/main/espn%20Cricinfo%20.png)
+
 
 ## Technologies Used
 - **Python**
